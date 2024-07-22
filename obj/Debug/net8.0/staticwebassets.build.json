@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AFY73l4ffSFRTjqZVXxHDGFaDhih4w3VN0cpwGqkoOo=",
+  "Source": "TestApi_dcbank",
+  "BasePath": "_content/TestApi_dcbank",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

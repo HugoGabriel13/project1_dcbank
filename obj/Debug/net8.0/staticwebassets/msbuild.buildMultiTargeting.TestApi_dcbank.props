@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TestApi_dcbank.props" />
+</Project>

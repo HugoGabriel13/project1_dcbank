@@ -1,0 +1,6 @@
+@TestApi_dcbank_HostAddress = http://localhost:5068
+
+GET {{TestApi_dcbank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
