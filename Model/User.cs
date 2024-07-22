@@ -11,7 +11,7 @@ namespace TestApi.Models
         public User(string login, string password)
         {
             Login = login ?? throw new ArgumentNullException(nameof(login));
-            Password = password ?? throw new ArgumentNullException(nameof(password));
+            Password = password ?? throw new ArgumentNullException(nameof(password));//oh yeah daddy
         }
     }
 }
