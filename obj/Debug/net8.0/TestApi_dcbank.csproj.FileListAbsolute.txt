@@ -34,3 +34,8 @@
 /Users/macbook/Desktop/TestApi_dcbank/obj/Debug/net8.0/TestApi_dcbank.pdb
 /Users/macbook/Desktop/TestApi_dcbank/obj/Debug/net8.0/TestApi_dcbank.genruntimeconfig.cache
 /Users/macbook/Desktop/TestApi_dcbank/obj/Debug/net8.0/ref/TestApi_dcbank.dll
+/Users/macbook/Desktop/TestApi_dcbank/obj/Debug/net8.0/TestApi_dcbank.sourcelink.json
+/Users/macbook/Desktop/TestApi_dcbank/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/macbook/Desktop/TestApi_dcbank/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/macbook/Desktop/TestApi_dcbank/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/macbook/Desktop/TestApi_dcbank/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll

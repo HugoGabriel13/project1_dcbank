@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestApi_dcbank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67da779770eab4d02a9bb667e56f2b5b16d721b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestApi_dcbank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestApi_dcbank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
